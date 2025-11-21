@@ -1,0 +1,10 @@
+BankAccount,11112222,150.0,2020-08-23,John Adam Smith
+CheckingAccount,22223333,200.0,2021-07-14,Dane Doe,50.0
+CDAccount,33334444,300.0,2022-01-01,John Adam Smith,6
+CheckingAccount,11112222,400.0,2021-07-14,Dane Smith,50.0
+BankAccount,4444555,100.0,2020-08-23,John Adam Smith
+BankAccount,444455555,100.0,2020-08-23,John Adam Smith
+BankAccount,4444555a,100.0,2020-08-23,John Adam Smith
+BankAccount,44445555,100.0,2020-08-23,John
+BankAccount,55556666,100.0,2020-08-23,John Quincy Adam Smith
+OtherTypeOfAccount,66667777,100.0,2020-08-23,John Adam Smith
