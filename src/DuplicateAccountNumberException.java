@@ -11,29 +11,5 @@ public class DuplicateAccountNumberException extends Exception {
     public DuplicateAccountNumberException(String accountNumber) {
         super(accountNumber);
     }
-
-    /**
-     * 
-     * public class NegativeNumberException extends Exception {
-     *      public NegativeNumberException(String msg) {
-     *          super(msg);
-     *      }
-     * }
-     * 
-     * public void multiplyByTwo(int number) throws NegativeNumberException {
-     *         if (number < 0)
-     *              throw new NegativeNumberException("invalid number");
-     *          }
-     * }
-     * 
-     * public static void main(String[] args) {
-     *      try {
-     *      multiplyByTwo(-2);
-     *      } catch (NegativeNumberException e) {
-     *      System.out.println("Error: Negative number.");
-     *      }
-     * }
-     * 
-     * 
-     */
+    
 }
