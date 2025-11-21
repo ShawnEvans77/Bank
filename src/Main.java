@@ -27,7 +27,7 @@ public class Main {
         Scanner keyboard = new Scanner(System.in);
         String inputFileName;
         File file;
-        System.out.println("Hello World");
+        
         if (args.length != 0) {
             inputFileName = args[0];
         } else {
